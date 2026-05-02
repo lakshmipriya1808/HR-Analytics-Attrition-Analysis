@@ -29,7 +29,8 @@ recommendations to improve retention.
 4. Conduct quarterly satisfaction surveys in high-risk departments
 
 ## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard/dashboard_preview.png)
+
 
 ## Project Structure
 - hr_analysis.ipynb — Python notebook with cleaning, EDA and SQL
